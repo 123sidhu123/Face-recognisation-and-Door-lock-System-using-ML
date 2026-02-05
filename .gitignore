@@ -1,0 +1,17 @@
+# virtual environments
+myenv/
+myenv310/
+
+# python cache
+__pycache__/
+*.pyc
+
+# logs & temp
+*.log
+temp_buffer/
+
+# OS files
+.DS_Store
+
+# large ML models (optional)
+*.dat
